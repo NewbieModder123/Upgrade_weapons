@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RK7Zjo9k+ePhvO9NmO/DZ5LS5NI0Z8VSZDtY9gLVQUNHKjK8vq86bMgf+GXUK4Id7fy6Ojl3uPKHcJovXVWkmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Boris\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Upgrade_weapons\\Upgrade_weapons.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Boris\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

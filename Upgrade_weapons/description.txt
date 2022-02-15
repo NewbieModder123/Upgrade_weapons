@@ -1,0 +1,30 @@
+Upgraded weapons uses ores and bars to make upgraders to make better weapons! It (will) also adds new weapons! 
+It currently has upgraded copper weapons/tools each upgraded 3 tiers (excluding axe and broadsword).
+
+
+
+
+
+
+
+
+=========================================================================================================================================================================================
+Version 0.3
+---Actualy added icon
+
+
+
+
+=========================================================================================================================================================================================
+Version 0.2
+---Added icon
+
+
+
+=========================================================================================================================================================================================
+Version 0.1
+---Mod released
+---Adds copper enhancement
+---Adds tier 1, 2 and 3 copper pickaxe
+---Adds tier 1, 2 and 3 copper shortsword
+---Adds tier 1, 2 and 3 copper hammer
